@@ -15,7 +15,7 @@ public class Pattern1 {
             {
                 System.out.print(S.charAt(j));
             }
-            System.out.println("");
+            System.out.println("Anusha");
         }
     }
 
